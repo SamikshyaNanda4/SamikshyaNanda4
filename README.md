@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamikshyaNanda4
 - 👀 I’m interested in ... EXPLORING CODING RELATED STUFFS
-- 🌱 I’m currently learning ...PYTHON
+- 🌱 I’m currently learning ...WEB DEVELOPMENT AND Enhancing my DSA SKILLS
 - 💞️ I’m looking to collaborate on ...FULL STACK DEVELOPMENT SEEKERS
 - 📫 How to reach me ...https://twitter.com/SamikshyaNanda4
 
