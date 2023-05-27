@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamikshyaNanda4?tab=repositories](https://github.com/SamikshyaNanda4?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS ,Golang ,Python ,JAVA ,React ,TypeScript,Ruby**
+- 💬 Ask me about **HTML, CSS, JS ,Golang ,Python ,JAVA ,React ,TypeScript, Ruby**
 
 - 📫 How to reach me **samikshya.nanda.4848@gmail.com**
 
