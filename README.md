@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Dev Projects and DSA using JAVA**
 
-- 🌱 I’m currently learning **DSA for logic and HTML ,CSS ,JS ,React ,GCP(ACE),Ruby on Rails .**
+- 🌱 I’m currently learning **DSA for logic and HTML ,CSS ,JS ,React ,GCP(ACE)**
 
 - 👯 I’m looking to collaborate on **Front End and Cloud projects**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamikshyaNanda4?tab=repositories](https://github.com/SamikshyaNanda4?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS ,Golang ,Python ,JAVA ,React ,TypeScript, Ruby**
+- 💬 Ask me about **HTML, CSS, JS ,Golang ,Python ,JAVA ,React ,TypeScript**
 
 - 📫 How to reach me **samikshya.nanda.4848@gmail.com**
 
