@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Dev Projects and DSA using JAVA**
 
-- 🌱 I’m currently learning **DSA for logic and HTML ,CSS ,JS ,React ,GCP(ACE)**
+- 🌱 I’m currently learning **DSA for logic and HTML ,CSS ,JS ,React ,Node.js**
 
 - 👯 I’m looking to collaborate on **Front End and Cloud projects**
 
