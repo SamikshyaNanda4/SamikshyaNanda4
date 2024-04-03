@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA for logic and HTML ,CSS ,JS ,React ,Node.js .**
 
-- 👯 I’m looking to collaborate on **Front End and Cloud projects**
+- 👯 I’m looking to collaborate on **Development projects**
 
 - 🤝 I’m looking for help with **React Framework and Cloud Providers like AWS ,GCP and Azure**
 
