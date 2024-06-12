@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samikshya Nanda</h1>
-<h3 align="center">I am a Developer and Cloud Enthusiast Based in India .</h3>
+<h3 align="center">I am a Developer and  a Computer Science Graduate from  India .</h3>
 <img align='right' width='400' src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47yfuwx6iuo22ft1aqt96flnlw67kz6hseeqbt2sy2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/samikshyananda4" target="blank"><img src="https://img.shields.io/twitter/follow/samikshyananda4?logo=twitter&style=for-the-badge" alt="samikshyananda4" /></a> </p>
