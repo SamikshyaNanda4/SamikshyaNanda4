@@ -34,7 +34,7 @@
 
 <p><img align="justify-content" src="https://geeks-for-geeks-stats-api.vercel.app/?raw=%3CY/N%3E&userName=samikshyananda4848" alt="geeksforgeeksScoreCard"></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshyananda4&" alt="samikshyananda4" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshyananda4&" alt="samikshyananda4" height="200" width="440/></p>
 
-<p><img align="right" src="https://leetcard.jacoblin.cool/SamikshyaNanda4?theme=dark&font=JetBrains%20Mono" alt="LeetCodeStats" height="120" width="360"></p>
+<p><img align="justify-content" src="https://leetcard.jacoblin.cool/SamikshyaNanda4?theme=dark&font=JetBrains%20Mono" alt="LeetCodeStats" height="200" width="560"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikshyananda4&show_icons=true&locale=en" alt="samikshyananda4" /></p>
