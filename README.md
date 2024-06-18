@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikshyananda4&show_icons=true&locale=en" alt="samikshyananda4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshyananda4&" alt="samikshyananda4" /></p>
+<p><img align="center" src="https://geeks-for-geeks-stats-api.vercel.app/?raw=%3CY/N%3E&userName=samikshyananda4848" alt="geeksforgeeksScoreCard"></p>
