@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samikshyananda4&show_icons=true&locale=en&layout=compact" alt="samikshyananda4" /></p>
 
-<p><img align="right" src="https://geeks-for-geeks-stats-api.vercel.app/?raw=%3CY/N%3E&userName=samikshyananda4848" alt="geeksforgeeksScoreCard"></p>
+<p><img align="justify-content" src="https://geeks-for-geeks-stats-api.vercel.app/?raw=%3CY/N%3E&userName=samikshyananda4848" alt="geeksforgeeksScoreCard"></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshyananda4&" alt="samikshyananda4" /></p>
 
