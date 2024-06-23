@@ -2,7 +2,7 @@
 <h3 align="center">I am a Developer and  a Computer Science Graduate based in  India .</h3>
 <!-- <img align='right' width='400' src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47yfuwx6iuo22ft1aqt96flnlw67kz6hseeqbt2sy2&ep=v1_gifs_search&rid=giphy.gif&ct=g"> -->
 <!-- <iframe align='right' width='400' src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
-<img align='right' width='400' src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv">
+<img align='right' width='400' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFtOTlweG14Mmw2Z2JudDhtZXVpc2k2ZHh4ZDF5aWMxbXJwN215aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 
 <p align="left"> <a href="https://twitter.com/samikshyananda4" target="blank"><img src="https://img.shields.io/twitter/follow/samikshyananda4?logo=twitter&style=for-the-badge" alt="samikshyananda4" /></a> </p>
 
