@@ -1,4 +1,4 @@
-![image](https://github.com/SamikshyaNanda4/SamikshyaNanda4/assets/91324968/7056fabf-4a95-4fda-9167-b9a77fde1390)<h1 align="center">Hi 👋, I'm Samikshya Nanda</h1>
+<h1 align="center">Hi 👋, I'm Samikshya Nanda</h1>
 <h3 align="center">I am a Developer and  a Computer Science Graduate based in  India .</h3>
 <!-- <img align='right' width='400' src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47yfuwx6iuo22ft1aqt96flnlw67kz6hseeqbt2sy2&ep=v1_gifs_search&rid=giphy.gif&ct=g"> -->
 <!-- <iframe align='right' width='400' src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
